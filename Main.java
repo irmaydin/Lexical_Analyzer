@@ -1,13 +1,9 @@
 
-// 150120013 Irem Aydýn
-// 150120009 Hatice Yavuzsan
-// 150121013 Irem Kýranmezar
-
 
 import java.io.*;
 import java.util.Scanner;
 
-public class _150120013_150120009_150121013{
+public class Main{
 
     // This method returns whether the string data is identifier or not.
     public static boolean isIdentifier(String str) {
